@@ -1,0 +1,8 @@
+{
+  "name": "blade-overdrive-online",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/smoke-test.cjs"
+  }
+}

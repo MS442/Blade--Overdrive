@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+# This is a static HTML5 Canvas game. The leaderboard/auth backend is hosted
+# separately on Supabase; never put a Supabase service-role key in this site.
